@@ -1,0 +1,9 @@
+D:\Lab06_Bai01\Server\bin\Debug\Server.exe.config
+D:\Lab06_Bai01\Server\bin\Debug\Server.exe
+D:\Lab06_Bai01\Server\bin\Debug\Server.pdb
+D:\Lab06_Bai01\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab06_Bai01\Server\obj\Debug\Server.Form1.resources
+D:\Lab06_Bai01\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Lab06_Bai01\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab06_Bai01\Server\obj\Debug\Server.exe
+D:\Lab06_Bai01\Server\obj\Debug\Server.pdb

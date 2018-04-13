@@ -1,0 +1,8 @@
+D:\Lab06_Bai01\Client\bin\Debug\Client.exe.config
+D:\Lab06_Bai01\Client\bin\Debug\Client.exe
+D:\Lab06_Bai01\Client\bin\Debug\Client.pdb
+D:\Lab06_Bai01\Client\obj\Debug\Client.Form1.resources
+D:\Lab06_Bai01\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Lab06_Bai01\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Lab06_Bai01\Client\obj\Debug\Client.exe
+D:\Lab06_Bai01\Client\obj\Debug\Client.pdb
