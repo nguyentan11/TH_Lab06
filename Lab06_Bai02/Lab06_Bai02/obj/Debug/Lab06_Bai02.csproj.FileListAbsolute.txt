@@ -1,0 +1,5 @@
+D:\Lab06_Bai02\Lab06_Bai02\bin\Debug\Lab06_Bai02.exe.config
+D:\Lab06_Bai02\Lab06_Bai02\bin\Debug\Lab06_Bai02.exe
+D:\Lab06_Bai02\Lab06_Bai02\bin\Debug\Lab06_Bai02.pdb
+D:\Lab06_Bai02\Lab06_Bai02\obj\Debug\Lab06_Bai02.exe
+D:\Lab06_Bai02\Lab06_Bai02\obj\Debug\Lab06_Bai02.pdb
